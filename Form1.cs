@@ -31,5 +31,10 @@ namespace Typing_speed
         {
             Application.Exit();
         }
+
+        private void TargetText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
